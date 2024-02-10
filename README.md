@@ -18,3 +18,4 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/018cd4fc-57ca-4851-aa47-c07793d3afd2.svg)](https://wakatime.com/@018cd4fc-57ca-4851-aa47-c07793d3afd2)
